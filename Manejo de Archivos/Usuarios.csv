@@ -1,0 +1,12 @@
+username,password,nivel_acceso
+usuario1,pass1,lectura
+usuario2,pass2,escritura
+usuario3,pass3,ejecucion
+usuario4,pass4,lectura
+usuario5,pass5,actualizar
+usuario6,pass6,cambiar_permisos
+usuario7,pass7,borrar
+usuario8,pass8,conocimiento
+usuario9,pass9,ninguno
+usuario10,pass10,agregar
+owner,owner,owner
